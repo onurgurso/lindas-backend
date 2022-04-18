@@ -1,5 +1,8 @@
 # 🚀 Getting started with Strapi
 
+Follow deployment instructions if there is a need to start over [Command Line Interface]
+https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/deployment/hosting-guides/heroku.html#_11-deploy
+
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
 
 ### `develop`
